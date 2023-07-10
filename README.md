@@ -60,6 +60,7 @@ Prediction of time series data on the number of newly confirmed COVID-19 cases i
 - NumPy
 - Matplotlib
 - scikit-learn
+- tqdm
 - Pytorch
 - (GPU 가속) Pytorch with CUDA
 - (GPU 가속) NVIDIA 그래픽 드라이버
@@ -68,10 +69,10 @@ Prediction of time series data on the number of newly confirmed COVID-19 cases i
 
 Linux
 
-`pip3 install pandas numpy matplotlib scikit-learn torch torchvision torchaudio`
+`pip3 install pandas numpy matplotlib scikit-learn tqdm torch torchvision torchaudio`
 
 Windows
 
-`pip3 install pandas numpy matplotlib scikit-learn torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu117`
+`pip3 install pandas numpy matplotlib scikit-learn tqdm torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu117`
 
 NVIDIA 그래픽 드라이버는 NVIDIA 홈페이지에서 받을 수 있다.
