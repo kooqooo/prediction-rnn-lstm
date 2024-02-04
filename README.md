@@ -1,4 +1,3 @@
-# dku_lab
 # RNN과 LSTM을 활용한 서울시 코로나19 신규 확진자 수 시계열 데이터 예측
 Prediction of time series data on the number of newly confirmed COVID-19 cases in Seoul using RNN and LSTM
 
